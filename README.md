@@ -24,12 +24,9 @@ Lista de exercícios para praticar algoritmo estruturado e lógica de programaç
 3.	Faça um programa que receba três números e mostre-os em ordem crescente.
 
 4.	Faça um programa que receba a altura e o peso de uma pessoa. De acordo com a tabela a seguir, verifique e mostra qual a classificação dessa pessoa. 
-                 |                Peso                  |
-  Altura         | Até 60 | Entre 60 e 90 | Acima de 90 |   
-  Menor que 1.20 |    A   |        D      |      G      | 
-  1.20 - 1.70    |    B   |        E      |      H      |
-  Maior que 1.70 |    C   |        F      |      I      |
-  
+
+ <img alt="Questão" title="Cefet" src="github/tabela.png"/>
+
 5.	Faça um programa que calcule e mostre a soma dos 50 primeiros números pares.
 
 6.	Faça um programa que receba vários números, calcule e mostre:
